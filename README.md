@@ -9,5 +9,6 @@ face_cascade = cv2.CascadeClassifier('/opt/anaconda3/lib/python3.8/site-packages
 eye_cascade = cv2.CascadeClassifier('/opt/anaconda3/lib/python3.8/site-packages/cv2/data/haarcascade_eye.xml')
 
 Windows Paths:
-N/A
+face_cascade = cv2.CascadeClassifier(r'D:\\Anaconda\\Lib\\site-packages\\cv2\data\\haarcascades\\haarcascade_frontalface_default.xml')
+eye_cascade = cv2.CascadeClassifier(r'D:\\Anaconda\\Lib\\site-packages\\cv2\data\\haarcascades\\haarcascade_eye.xml')
 
